@@ -15,10 +15,10 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Sahil's Portfolio",
-  description: "Modern and minimilistic portfolio ",
+  description: "Modern and minimilistic ",
 };
 
-export default function RootLayout({
+export default function RootmLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
